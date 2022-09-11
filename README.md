@@ -1,0 +1,2 @@
+# BlueLauncher
+A game launcher
